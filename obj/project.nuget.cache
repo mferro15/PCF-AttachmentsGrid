@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JrwDuWm9B1g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\megan\\Documents\\PowerApp Local\\PCF\\PCF-AttachmentsGrid\\PCF-AttachmentsGrid.pcfproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\megan\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.47.1\\microsoft.powerapps.msbuild.pcf.1.47.1.nupkg.sha512"
+  ],
+  "logs": []
+}
